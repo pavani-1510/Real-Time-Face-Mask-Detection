@@ -8,6 +8,7 @@ This project implements a real-time face mask detection system using computer vi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
+- [Kaggle Notebook](#kagglenotebook)
 
 ## Introduction
 
@@ -57,6 +58,6 @@ This project uses the following libraries:
 
 Ensure that these dependencies are installed in your Python environment.
 
-## Contributing
+## Kaggle Notebook
 
-Contributions are welcome! If you have any ideas, bug fixes, or improvements, feel free to fork the repository and submit a pull request. Please make sure your contributions align with the goals of the project.
+Alternatively you can run the kaggle notebook. Here is the link to the notebook : Real Time Face Mask Detection using ML [https://www.kaggle.com/code/rpavani2005/real-time-face-mask-detection-using-ml]
