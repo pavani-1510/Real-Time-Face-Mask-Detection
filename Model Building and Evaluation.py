@@ -21,7 +21,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 categories = ['with_mask', 'without_mask']
 data = []
 for category in categories:
-    path = os.path.join('Real Time face mask detction\\data', category)
+    path = os.path.join('Real Time face mask detection\\data', category)
     label = categories.index(category)
     
     for file in os.listdir(path):
