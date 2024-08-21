@@ -2,7 +2,7 @@ from tensorflow.keras.models import load_model
 import cv2
 
 # Load the model
-model = load_model('Real Time face mask detction/face_mask_detection_model.h5')
+model = load_model('Real Time face mask detection/face_mask_detection_model.h5')
 
 cap = cv2.VideoCapture(0)
 
