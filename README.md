@@ -33,10 +33,7 @@ To set up the project locally, follow these steps:
     ```
 
 2. **Install required dependencies:**
-    Make sure you have Python installed. Then, install the necessary libraries by running:
-    ```bash
-    pip install -r requirements.txt
-    ```
+    Make sure you have necessary libraries installed. 
 
 3. **Run the application:**
     To start the face mask detection system, execute:
