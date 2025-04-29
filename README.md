@@ -59,3 +59,13 @@ Ensure these dependencies are installed in your Python environment.
 ## Kaggle Notebook
 
 Alternatively, you can run the Kaggle notebook for this project. Here is the link to the notebook: [Real-Time Face Mask Detection using ML](https://www.kaggle.com/code/rpavani2005/real-time-face-mask-detection-using-ml)
+
+## Author
+- [R Pavani](https://www.linkedin.com/in/r-pavani/)
+- [GitHub](https://github.com/pavani-1510/)
+
+---
+
+© 2025 R Pavani. All rights reserved.
+
+---
